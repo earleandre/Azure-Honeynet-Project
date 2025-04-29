@@ -36,7 +36,8 @@ For the "AFTER" metrics, Network Security Groups were hardened by blocking ALL t
 ## Attack Maps Before Hardening / Security Controls
 ![image](https://github.com/user-attachments/assets/c51b1925-5953-4a6e-9f57-0092d54d5e90)
 ![image](https://github.com/user-attachments/assets/48b2ab2c-b110-4402-b353-95a4f7ca78a7)
-![Windows RDP/SMB Auth Failures](https://i.imgur.com/ESr9Dlv.png)<br>
+![image](https://github.com/user-attachments/assets/ae154bb4-558b-4c2b-a423-b1d4a049c649)
+
 
 ## Metrics Before Hardening / Security Controls
 
